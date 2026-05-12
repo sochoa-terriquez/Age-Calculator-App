@@ -1,0 +1,1 @@
+This project uses Python to calculate a user’s age from their birthdate. The program includes a GUI where users enter their information, then calculates and displays their age. The data is also saved to Google Sheets.  Language used: Python Libraries used: tkinter, datetime, google_auth
